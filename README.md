@@ -1,6 +1,6 @@
 # VOD App 
 
-- Single page app , uses Node with Express.js on server side
+- Single page app , uses Node with Express.js on server side and pug templates
 - View demo on Heroku : https://simplevodapp.herokuapp.com/
 
 

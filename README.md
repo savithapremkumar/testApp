@@ -1,7 +1,7 @@
 # Accedo Assignment - VOD App 
 
--Single page app , uses Node with Express.js on server side
--View demo on Heroku
+- Single page app , uses Node with Express.js on server side
+- View demo on Heroku
 
 
 ## Setup

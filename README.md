@@ -6,13 +6,13 @@
 
 ## Setup
 
-Download and unzip folder to 'testApp' 
-cd testApp
-npm install
+- Download and unzip folder to 'testApp' 
+- cd testApp
+- npm install
 
 ## Run
 
-node app.js
+- node app.js
 
 
  ## List of not implemented features:
@@ -25,7 +25,7 @@ node app.js
  - 	Carousel navigation is sticky,  needs to be smooth
 
  ## Optional Features Implemented
- - History gets stored in browser localStorage, not on server 
+ - Video History gets stored in browser localStorage, not on server 
  - App hosted on Heroku
 
 
